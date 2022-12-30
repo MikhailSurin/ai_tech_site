@@ -6,4 +6,4 @@ www-data ALL=(ALL:ALL) NOPASSWD:/opt/projects/ai_tech_site/github-deploy-hook/pu
 
 2) run init-dir.sh
 
-test
+test 2
